@@ -1,4 +1,4 @@
-# Sahil Bhoite - Portfolio Website
+# Adhiraj Pawar - Portfolio Website
 
 Welcome to my personal portfolio website. This project showcases my skills, projects, and experiences in software engineering, AI, and machine learning.
 
@@ -70,10 +70,10 @@ This website can be deployed to any static site hosting service, such as GitHub 
 
 If you'd like to get in touch, feel free to reach out via:
 
-- **Phone**: (+91) 9673832433
-- **Email**: [work.sahilbhoite@gmail.com](mailto:work.sahilbhoite@gmail.com)
-- **LinkedIn**: [Sahil Bhoite](https://www.linkedin.com/in/sahil-bhoite/)
-- **GitHub**: [Sahil-Bhoite](https://github.com/Sahil-Bhoite)
+- **Phone**: (+91) 7385091124
+- **Email**: [work.adhirajpawar@gmail.com](mailto:work.adhirajpawar@gmail.com)
+- **LinkedIn**: [Adhiraj Pawar](https://www.linkedin.com/in/adhiraj-pawar/)
+- **GitHub**: [Adhiraj Pawar](https://github.com/Adhiraj-Pawar)
 
 ## License
 
